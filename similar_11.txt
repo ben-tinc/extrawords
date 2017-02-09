@@ -1,0 +1,8 @@
+['juden', 'jüdinnen', 'nichtjuden', 'türken', 'nazis', 'nationalsozialisten']
+['jude', 'pazifist', 'emigrant', 'faschist', 'antisemit', 'katholik']
+['jüdischen', 'jüdische', 'jüdischer', 'israelitischen', 'orthodoxen', 'polnischen']
+['antisemit', 'faschist', 'rassist', 'pazifist', 'opportunist', 'jude']
+['antisemiten', 'faschisten', 'rassisten', 'stalinisten', 'anarchisten', 'ideologen']
+['antisemitische', 'rassistische', 'ausländerfeindliche', 'faschistische', 'sexistische', 'fremdenfeindliche']
+['antisemitismus', 'faschismus', 'rechtsradikalismus', 'nationalismus', 'nationalsozialismus', 'rassismus']
+['anwesenheit', 'abwesenheit', 'begleitung', 'präsenz', 'inhaftierung', 'gefangennahme']

@@ -1,0 +1,5 @@
+['sohn', 'bruder', 'vater', 'schwager', 'cousin', 'ehemann']
+['eltern', 'mütter', 'pflegeeltern', 'großeltern', 'mitschülerinnen', 'kinder']
+['papa', 'papi', 'vati', 'opa', 'mama', 'mutti']
+['tochter', 'schwester', 'mutter', 'nichte', 'enkelin', 'ehefrau']
+['vater', 'sohn', 'großvater', 'bruder', 'ehemann', 'stiefvater']

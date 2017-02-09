@@ -1,0 +1,8 @@
+['bitte', 'danke', 'bitteschön', 'höflich', 'bitten', 'bring']
+['bitten', 'baten', 'bittet', 'gebeten', 'trauern', 'raten']
+['freunde', 'freundinnen', 'mitstreiter', 'feinde', 'kameraden', 'kumpane']
+['helfen', 'kurieren', 'mithelfen', 'erleichtern', 'vermitteln', 'ermutigen']
+['verständnis', 'gespür', 'mitgefühl', 'verantwortungsbewußtsein', 'verständis', 'mitleid']
+['absicht', 'absichten', 'drohung', 'intention', 'haltung', 'argumentation']
+['angelegenheit', 'sache', 'gemengelage', 'prozedur', 'situation', 'konstellation']
+['annahme', 'feststellung', 'formulierung', 'behauptung', 'zusicherung', 'vermutung']

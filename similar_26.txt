@@ -1,0 +1,8 @@
+['deutschen', 'bundesdeutschen', 'deutsche', 'deutscher', 'westdeutschen', 'österreichischen']
+['europa', 'deutschland', 'westeuropa', 'asien', 'afrika', 'lateinamerika']
+['jun', 'xie', 'jin', 'guoliang', 'jing', 'liu']
+['1932', '1930', '1925', '1934', '1931', '1926']
+['amsterdam', 'basel', 'rotterdam', 'kopenhagen', 'zürich', 'lissabon']
+['ausbreitung', 'vermehrung', 'epidemie', 'schädigung', 'seuche', 'verbreitung']
+['dauerzustand', 'pflegefall', 'selbstläufer', 'politikum', 'kavaliersdelikt', 'sozialfall']
+['einmarschiert', 'stationiert', 'geflohen', 'geflüchtet', 'eingerückt', 'einmarschierten']

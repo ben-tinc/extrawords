@@ -1,0 +1,7 @@
+['krieg', 'bürgerkrieg', 'golfkrieg', 'vietnamkrieg', 'krieges', 'kriege']
+['angenehm', 'verführerisch', 'aufregend', 'rauh', 'romantisch', 'wunderschön']
+['bestrebung', 'stoßrichtung', 'manifestation', 'verfechterin', 'diskreditierung', 'grundhaltung']
+['frieden', 'friedensprozeß', 'weltfrieden', 'gerechtigkeit', 'versöhnung', 'krieg']
+['gehungert', 'gesoffen', 'gemordet', 'getrampelt', 'totgesagt', 'dahingerafft']
+['geschaffen', 'erschlossen', 'bereitgestellt', 'errichtet', 'eingerichtet', 'aufgebaut']
+['lehrbuch', 'wörterbuch', 'handbuch', 'bilderbuch', 'standardwerk', 'traktat']

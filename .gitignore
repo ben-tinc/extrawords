@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+nltk_data/
+__pycache__/
+sources/
+trainingscorpus/
+models/

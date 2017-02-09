@@ -1,0 +1,6 @@
+['film', 'dokumentarfilm', 'spielfilm', 'thriller', 'kurzfilm', 'kinofilm']
+['amerikanisch', 'britisch', 'chinesisch', 'europäisch', 'japanisch', 'sowjetisch']
+['ausgabe', 'beilage', 'kolumne', 'samstagsausgabe', 'publikation', 'wochenendausgabe']
+['buch', 'gedicht', 'tagebuch', 'büchlein', 'manuskript', 'standardwerk']
+['hollywood', 'hollywoods', 'western', 'nashville', 'godzilla', 'amerika']
+['italienische', 'spanische', 'belgische', 'französische', 'dänische', 'schwedische']

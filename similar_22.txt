@@ -1,0 +1,8 @@
+['volk', 'vaterland', 'regime', 'wahlvolk', 'proletariat', 'fußvolk']
+['abschied', 'schwur', 'übergang', 'abgang', 'saulus', 'untergang']
+['anrufen', 'anruft', 'aufsuchen', 'anzurufen', 'vorsprechen', 'anfordern']
+['barbarei', 'unmenschlichkeit', 'zivilisation', 'intoleranz', 'tyrannei', 'dekadenz']
+['deutschland', 'europa', 'westeuropa', 'bundesrepublik', 'brd', 'frankreich']
+['dezimiert', 'zurückgedrängt', 'abgeschlachtet', 'zwangsumgesiedelt', 'ausgebeutet', 'geschädigt']
+['drangsaliert', 'schikaniert', 'terrorisiert', 'verprügelt', 'ausgepeitscht', 'massakriert']
+['drücken', 'heben', 'hauen', 'schieben', 'senken', 'legen']

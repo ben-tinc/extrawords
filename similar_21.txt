@@ -1,0 +1,8 @@
+['beerdigung', 'beisetzung', 'trauerfeier', 'hinrichtung', 'geburtstagsfeier', 'hochzeit']
+['verloren', 'eingebüßt', 'gewonnen', 'verlieren', 'gekostet', 'verspielt']
+['selbstmord', 'suizid', 'mord', 'tod', 'freitod', 'mordversuch']
+['ausrotten', 'auslöschen', 'verjagen', 'zurückerobern', 'angreifen', 'zurückdrängen']
+['begangen', 'angestiftet', 'verübt', 'umgebracht', 'angezettelt', 'ausgeführt']
+['erschossenen', 'getöteten', 'untergetauchten', 'ermordeten', 'hingerichteten', 'verhafteten']
+['leid', 'weh', 'mitgefühl', 'unheil', 'mitleid', 'unglück']
+['sterben', 'verhungern', 'erfrieren', 'töten', 'hungern', 'leiden']
